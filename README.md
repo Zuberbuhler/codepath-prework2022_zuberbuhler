@@ -32,7 +32,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='Codepath_IOS_Prework_Zuberbuhler,Matthew.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='Codepath_IOS_Prework_Zuberbuhler,Matthew.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' height="400"/>
 
 ## Notes
 
